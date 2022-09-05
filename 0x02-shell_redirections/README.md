@@ -1,1 +1,2 @@
-Creating a 0-hello_world script file
+Creating 1-confused_smiley script file
+
